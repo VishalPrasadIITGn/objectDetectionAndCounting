@@ -14,6 +14,11 @@ The [tutorials folder](tutorials) is a collection of models described in the [Te
 
 If you want to contribute to models, be sure to review the [contribution guidelines](CONTRIBUTING.md).
 
+## Results
+The model was trained to detect Cars, Trucks and Humans. This was done as part of the project for [ML course in IIT Gandhinagar](https://nipunbatra.github.io/ml2019/). The results obtained for some test images are shown below.
+![results1](https://github.com/VishalPrasadIITGn/objectDetectionAndCounting/blob/main/Screenshot%20(193).png)
+![results2](https://github.com/VishalPrasadIITGn/objectDetectionAndCounting/blob/main/Screenshot%20(190).png)
+![results3](https://github.com/VishalPrasadIITGn/objectDetectionAndCounting/blob/main/Screenshot%20(187).png)
 ## License
 
 [Apache License 2.0](LICENSE)
